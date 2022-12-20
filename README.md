@@ -1,24 +1,9 @@
 # test-beacon
 
-## Project setup
-```
-npm install
-```
+## Resultats
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+L'appel au beacon est déclenché : 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Lors d'un changement de page sur la brand
+- Lorsque l'on quitte le navigateur sur mobile
+- Lorsque l'on change d'onglet sur mobile
